@@ -1,0 +1,60 @@
+[33mcommit 2e6014b6e1b92c78162072d86e86f5c72b5d04fc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Fri May 27 15:00:31 2022 -0400
+
+    css added in html
+
+[33mcommit 73d433965b65c4c6928c89b055d442d7d3d8b690[m
+Merge: f63391b 4c65a8c
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Fri May 27 14:53:05 2022 -0400
+
+    Merge branch 'main' of github.com:J0AZINH0/my_versioned_project
+
+[33mcommit f63391b4f33853925abb3aa658cc14e59172eb22[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Fri May 27 14:38:08 2022 -0400
+
+    learning line
+
+[33mcommit 4c65a8c7738aa7cd0565bdbaf4c20236dc6ba5c0[m
+Author: J0AZINH0 <106384707+J0AZINH0@users.noreply.github.com>
+Date:   Fri May 27 10:53:20 2022 -0400
+
+    Create style.css
+
+[33mcommit 3f9dea643b0d17a564d979b73503f5ed20d3b1da[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Fri May 27 10:48:34 2022 -0400
+
+    Remove css from HTML
+
+[33mcommit 9d61ff28c9f0cec615e76a40464359cdc98023a6[m
+Author: J0AZINH0 <106384707+J0AZINH0@users.noreply.github.com>
+Date:   Fri May 27 08:03:14 2022 -0400
+
+    Initial commit
+
+[33mcommit e600237ec15e1bb37562a78b9188e548a0e39f58[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Fri May 27 07:42:55 2022 -0400
+
+    Background and font changes
+
+[33mcommit 4f2b351e00550c5ecc6d8c2cb3303b7528fe1803[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Thu May 26 22:08:19 2022 -0400
+
+    segunda alteraçao
+
+[33mcommit 00fa21718f1edda67aed2cf9cfaf612b6f6b0ef3[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Thu May 26 21:59:22 2022 -0400
+
+    A paragraph was created.
+
+[33mcommit 4bfda2de9afe2a4afff48d05b941ca4731b5851f[m
+Author: Fabiano <fabiano_cristao@hotmail.com>
+Date:   Thu May 26 21:52:18 2022 -0400
+
+    this is a commit
